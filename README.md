@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Push1413/leetcode-kt/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Push1413/leetcode-kt/tree/master/0739-daily-temperatures) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Push1413/leetcode-kt/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Push1413/leetcode-kt/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
