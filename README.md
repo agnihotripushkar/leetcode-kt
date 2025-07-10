@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-kt/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Push1413/leetcode-kt/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Push1413/leetcode-kt/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Push1413/leetcode-kt/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 ## Array
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Push1413/leetcode-kt/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Push1413/leetcode-kt/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Push1413/leetcode-kt/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Push1413/leetcode-kt/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
