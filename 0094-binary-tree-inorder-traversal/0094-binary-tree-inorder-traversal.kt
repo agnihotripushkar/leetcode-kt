@@ -9,19 +9,19 @@
  * }
  */
 class Solution {
-    val result = mutableListOf<Int>()
     fun inorderTraversal(root: TreeNode?): List<Int> {
-        if(root!=null){
-            travel(root)
-        }
+        val result = mutableListOf<Int>()
+        travel(result,root)
         return result
     }
 
-    fun travel(root:TreeNode?){
-        if(root!=null){
-            travel(root.left)
-            result.add(root.`val`)
-            travel(root.right)
-        }
+    fun travel(result:MutableList<Int>, root:TreeNode?){
+        if (root==null) return
+        
+        travel(result,root.left)
+        result.add(root.`val`)
+        travel(result,root.right)
+        
+       
     }
 }
