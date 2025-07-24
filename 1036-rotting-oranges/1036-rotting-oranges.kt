@@ -5,7 +5,7 @@ class Solution {
         val queue:Queue<Pair<Int,Int>> = LinkedList()
         val directions = arrayOf(Pair(0,1),Pair(1,0),Pair(0,-1),Pair(-1,0))
 
-        var timer = -1
+        var timer = 0
         var fresh = 0
 
         for(i in 0 until rows){
@@ -19,12 +19,12 @@ class Solution {
             }
         }
 
-        if (fresh == 0) {
-            return 0
-        }
+        if (fresh == 0) return 0
 
         while(queue.isNotEmpty()){
+            var rottedThisMinute = false
             val size = queue.size
+
             for(k in 0 until size){
                 val (x,y) = queue.poll()
                 for((dx,dy) in directions){
@@ -34,10 +34,12 @@ class Solution {
                     grid[newRow][newCol]=2
                     fresh--
                     queue.offer(Pair(newRow,newCol))
+                    rottedThisMinute = true
                     }
                 }
-            }  
-            timer++
+            } 
+
+            if (rottedThisMinute)timer++
         }
 
         if(fresh==0){
