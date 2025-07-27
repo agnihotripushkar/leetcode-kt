@@ -211,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Push1413/leetcode-kt/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Push1413/leetcode-kt/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Push1413/leetcode-kt/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
