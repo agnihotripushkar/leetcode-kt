@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Push1413/leetcode-kt/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-kt/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Push1413/leetcode-kt/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-kt/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Push1413/leetcode-kt/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-kt/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Push1413/leetcode-kt/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Stack
 |  |
 | ------- |
