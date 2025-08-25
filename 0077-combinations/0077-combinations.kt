@@ -1,7 +1,7 @@
 class Solution {
     fun combine(n: Int, k: Int): List<List<Int>> {
         val result = ArrayList<List<Int>>()
-        var curr = ArrayList<Int>()
+        val curr = ArrayList<Int>()
 
         fun dfs(start:Int){
             if(curr.size == k){
