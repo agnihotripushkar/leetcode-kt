@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Push1413/leetcode-kt/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
@@ -252,12 +253,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Push1413/leetcode-kt/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-kt/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-kt/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Push1413/leetcode-kt/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Push1413/leetcode-kt/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-kt/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Push1413/leetcode-kt/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
