@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-kt/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Push1413/leetcode-kt/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-kt/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Push1413/leetcode-kt/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Push1413/leetcode-kt/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Push1413/leetcode-kt/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Push1413/leetcode-kt/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Push1413/leetcode-kt/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Push1413/leetcode-kt/tree/master/0027-remove-element) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Push1413/leetcode-kt/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Push1413/leetcode-kt/tree/master/0077-combinations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Push1413/leetcode-kt/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
