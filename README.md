@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Push1413/leetcode-kt/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-kt/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Push1413/leetcode-kt/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
