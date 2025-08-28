@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Push1413/leetcode-kt/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Push1413/leetcode-kt/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-kt/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-kt/tree/master/0739-daily-temperatures) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Push1413/leetcode-kt/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Push1413/leetcode-kt/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
