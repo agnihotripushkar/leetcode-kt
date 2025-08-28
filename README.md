@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Push1413/leetcode-kt/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Push1413/leetcode-kt/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-kt/tree/master/1127-last-stone-weight) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Push1413/leetcode-kt/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Push1413/leetcode-kt/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Push1413/leetcode-kt/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-kt/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Push1413/leetcode-kt/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Push1413/leetcode-kt/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Stack
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-kt/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Push1413/leetcode-kt/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Push1413/leetcode-kt/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
