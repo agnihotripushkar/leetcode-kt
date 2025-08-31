@@ -9,7 +9,7 @@ class Solution {
                 nums1[index--] = nums1[poi1--]
             }
             else{
-                 nums1[index--] = nums2[poi2--]
+                nums1[index--] = nums2[poi2--] 
             }
         }
     }
