@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-kt/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Push1413/leetcode-kt/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Push1413/leetcode-kt/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Push1413/leetcode-kt/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-kt/tree/master/0695-max-area-of-island) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-kt/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Push1413/leetcode-kt/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-kt/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Push1413/leetcode-kt/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Push1413/leetcode-kt/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Push1413/leetcode-kt/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
