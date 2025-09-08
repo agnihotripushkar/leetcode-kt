@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Push1413/leetcode-kt/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Push1413/leetcode-kt/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Push1413/leetcode-kt/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Push1413/leetcode-kt/tree/master/0075-sort-colors) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-kt/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
 ## Binary Search
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Push1413/leetcode-kt/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
