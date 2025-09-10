@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Push1413/leetcode-kt/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Push1413/leetcode-kt/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Push1413/leetcode-kt/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Push1413/leetcode-kt/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Push1413/leetcode-kt/tree/master/0073-set-matrix-zeroes) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Push1413/leetcode-kt/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Push1413/leetcode-kt/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Push1413/leetcode-kt/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
