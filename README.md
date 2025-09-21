@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Push1413/leetcode-kt/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
