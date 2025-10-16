@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-kt/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Push1413/leetcode-kt/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-kt/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Push1413/leetcode-kt/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-kt/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Push1413/leetcode-kt/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Push1413/leetcode-kt/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Push1413/leetcode-kt/tree/master/0077-combinations) |
