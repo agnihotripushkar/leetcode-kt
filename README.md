@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Push1413/leetcode-kt/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Push1413/leetcode-kt/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Push1413/leetcode-kt/tree/master/0414-third-maximum-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-kt/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Push1413/leetcode-kt/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
