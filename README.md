@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-kt/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-kt/tree/master/0739-daily-temperatures) |
