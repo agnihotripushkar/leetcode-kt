@@ -1,21 +1,29 @@
 class Solution {
     fun majorityElement(nums: IntArray): Int {
-        var candidate = 0
-        var count = 0
+        var counter = 0
+        val len = nums.size
+        var item = 0
 
-        for (num in nums){
-            if (count==0){
-                candidate = num
-            }
-            if (num==candidate){
-                count++
-            }
-            else{
-                count--
-            }
+        if(len<2){
+            return nums[0]
         }
 
-        return candidate
+        for(num in nums){
+            if(counter ==0){
+                item = num
+            }
+
+            if(num==item){
+                counter++
+            }
+            else{
+                counter--
+            }   
+        }
+
+        return item
+
+    
         
     }
 }
