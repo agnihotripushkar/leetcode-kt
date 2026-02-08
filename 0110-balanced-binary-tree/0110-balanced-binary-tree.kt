@@ -9,25 +9,26 @@
  * }
  */
 class Solution {
+
     fun isBalanced(root: TreeNode?): Boolean {
+        if(root==null) return true
         var ans = true
 
-        fun DFS(root:TreeNode?):Int{
-            if (root==null)return 0
+        fun dfs(root:TreeNode?):Int{
+            if(root==null) return 0
 
-            val left = DFS(root.left)
-            val right = DFS(root.right)
+            val left = dfs(root.left)
+            val right = dfs(root.right)
 
-            if (abs(left - right) >1){
+            if(abs(left - right)> 1){
                 ans = false
             }
 
-            return 1 + maxOf(right,left)
+            return 1 + maxOf(left,right)
         }
 
-         DFS(root)
-         return ans   
-
-        }
+        dfs(root)
+        return ans  
+    }
 
 }
