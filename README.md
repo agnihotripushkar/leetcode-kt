@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-kt/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-kt/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Push1413/leetcode-kt/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0101-symmetric-tree) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-kt/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Push1413/leetcode-kt/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0101-symmetric-tree) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Push1413/leetcode-kt/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Push1413/leetcode-kt/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
