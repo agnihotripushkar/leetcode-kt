@@ -441,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0099-recover-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
