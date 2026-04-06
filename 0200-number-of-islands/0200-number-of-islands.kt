@@ -5,11 +5,11 @@ class Solution {
         var count = 0
         val visited = Array(rows){IntArray(cols)}
 
-        for(i in 0 until rows){
-            for(j in 0 until cols){
-                visited[i][j]=0
-            }
-        }
+        // for(i in 0 until rows){
+        //     for(j in 0 until cols){
+        //         visited[i][j]=0
+        //     }
+        // }
 
         for(i in 0 until rows){
             for(j in 0 until cols){
