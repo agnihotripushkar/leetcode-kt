@@ -7,12 +7,6 @@ class Solution {
 
         for(i in 0 until rows){
             for(j in 0 until cols){
-                visited[i][j]=0
-            }
-        }
-
-        for(i in 0 until rows){
-            for(j in 0 until cols){
                 if(grid[i][j]==1){
                     val area = dfs(i,j,grid,visited)
                     maxArea = maxOf(maxArea,area)
