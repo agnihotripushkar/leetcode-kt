@@ -13,37 +13,39 @@ class Solution {
 
         for(i in 0 until rows){
             for(j in 0 until cols){
-                if(grid[i][j]==1 && visited[i][j]==0){
-                    val area = DFS(grid, i, j, visited)
-                    maxArea = maxOf(maxArea, area)
+                if(grid[i][j]==1){
+                    val area = dfs(i,j,grid,visited)
+                    maxArea = maxOf(maxArea,area)
                 }
             }
         }
-
-        return maxArea
+        return maxArea  
     }
 
-    fun DFS(grid: Array<IntArray>,i:Int,j:Int,visited:Array<IntArray>):Int{
-        visited[i][j]=1
-        var area = 1
+    fun dfs(row:Int,col:Int,grid:Array<IntArray>,visited:Array<IntArray>):Int{
+        var currentArea = 1
+        visited[row][col] = 1
         val directions = arrayOf(Pair(0,1),Pair(0,-1),Pair(1,0),Pair(-1,0))
 
         for((dx,dy) in directions){
-            val newRow = i+dx
-            val newCol = j+dy
-
-            if(isValid(grid,newRow,newCol,visited)){
-                area += DFS(grid,newRow,newCol,visited)
+            val newRow = dx+row
+            val newCol = dy+col
+            if(isValid(newRow,newCol,visited,grid)){
+                currentArea += dfs(newRow,newCol,grid,visited)
             }
         }
-        return area
+
+        return currentArea
+
     }
 
-    fun isValid(grid: Array<IntArray>,i:Int,j:Int,visited:Array<IntArray>):Boolean{
+    fun isValid(newRow:Int,newCol:Int,visited:Array<IntArray>,grid:Array<IntArray>):Boolean{
         val rows = grid.size
         val cols = grid[0].size
 
-        return i in 0 until rows && j in 0 until cols && grid[i][j]==1 && visited[i][j]==0
-
+        return newRow in 0 until rows  &&
+                newCol in 0 until cols &&
+                visited[newRow][newCol]==0 &&
+                grid[newRow][newCol]==1
     }
 }
