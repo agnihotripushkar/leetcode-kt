@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1200-minimum-absolute-difference) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3379-transformed-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
