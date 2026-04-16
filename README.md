@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Push1413/leetcode-kt/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Push1413/leetcode-kt/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
 | ------- |
