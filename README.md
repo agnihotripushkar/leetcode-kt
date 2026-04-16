@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Push1413/leetcode-kt/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Simulation
 |  |
 | ------- |
