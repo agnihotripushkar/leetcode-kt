@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3379-transformed-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-kt/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Matrix
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1034-coloring-a-border) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Tree
 |  |
 | ------- |
