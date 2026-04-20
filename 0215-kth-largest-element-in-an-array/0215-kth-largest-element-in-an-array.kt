@@ -4,10 +4,12 @@ class Solution {
 
         for(num in nums){
             heap.add(num)
-            if(heap.size > k){
-                heap.poll()
+            if(heap.size>k){
+                heap.poll()  
             }
         }
+
         return heap.peek()
+        
     }
 }
