@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Push1413/leetcode-kt/tree/master/0414-third-maximum-number) |
+| [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-kt/tree/master/1127-last-stone-weight) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Push1413/leetcode-kt/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Dynamic Programming
