@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Push1413/leetcode-kt/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Push1413/leetcode-kt/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Push1413/leetcode-kt/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
