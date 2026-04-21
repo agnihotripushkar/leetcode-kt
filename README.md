@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
+| [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Matrix
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-kt/tree/master/1036-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
+| [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Depth-First Search
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1034-coloring-a-border) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Tree
 |  |
@@ -497,4 +501,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
 <!---LeetCode Topics End-->
