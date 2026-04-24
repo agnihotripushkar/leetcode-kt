@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
 | [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
+| [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3379-transformed-array) |
 ## Breadth-First Search
