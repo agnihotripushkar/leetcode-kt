@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2833-furthest-point-from-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2833-furthest-point-from-origin) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-kt/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Binary Search
 |  |
 | ------- |
