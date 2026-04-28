@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-kt/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1572-matrix-diagonal-sum) |
 | [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
