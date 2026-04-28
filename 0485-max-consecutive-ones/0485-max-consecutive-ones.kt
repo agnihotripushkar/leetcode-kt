@@ -1,18 +1,20 @@
 class Solution {
     fun findMaxConsecutiveOnes(nums: IntArray): Int {
-        var counter = 0
-        var maxCounter = 0
-        val n = nums.size
+        var count = 0
+        var ans = 0
 
-        for(i in 0 until n){
+        for(i in 0 until nums.size){
             if(nums[i]==1){
-                counter++
+                count++
+                ans = maxOf(count,ans)
             }
-            else{ 
-                maxCounter = maxOf(maxCounter,counter)
-                counter = 0
+            if(nums[i]==0){
+                ans = maxOf(count,ans)
+                count = 0
             }
         }
-        return maxOf(maxCounter,counter)
+
+        return ans
+        
     }
 }
