@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Push1413/leetcode-kt/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-kt/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-kt/tree/master/0695-max-area-of-island) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
 ## Geometry
 |  |
 | ------- |
