@@ -1,8 +1,8 @@
 class Solution {
     fun firstMissingPositive(nums: IntArray): Int {
-        val set = nums.toSet()
         var i = 1
-        while(set.contains(i))i++
+        val set1 = nums.toSet()
+        while(set1.contains(i))i++
         return i
     }
 }
