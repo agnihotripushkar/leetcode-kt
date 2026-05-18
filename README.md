@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Push1413/leetcode-kt/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Push1413/leetcode-kt/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-kt/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0072-edit-distance) |
