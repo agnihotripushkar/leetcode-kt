@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-kt/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-kt/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Push1413/leetcode-kt/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0695-max-area-of-island) |
 | [1905-count-sub-islands](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1905-count-sub-islands) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
