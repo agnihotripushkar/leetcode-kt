@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Push1413/leetcode-kt/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Push1413/leetcode-kt/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-kt/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-kt/tree/master/0542-01-matrix) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
