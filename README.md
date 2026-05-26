@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -474,9 +475,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-kt/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Push1413/leetcode-kt/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
 ## Geometry
