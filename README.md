@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Push1413/leetcode-kt/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
