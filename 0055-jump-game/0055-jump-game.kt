@@ -3,17 +3,11 @@ class Solution {
         var maxReach = 0
 
         for(i in 0 until nums.size){
-            if(i>maxReach){
-                return false
-            }
-            val canMaxGo = i+ nums[i]
-            maxReach = maxOf(maxReach,canMaxGo)
-            if(maxReach >= (nums.size-1)){
-                return true
+            if(maxReach>=i){
+                maxReach = maxOf(maxReach, i+nums[i])
             }
         }
 
-        return false
-        
+        return maxReach>=nums.size-1
     }
 }
