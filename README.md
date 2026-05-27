@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Push1413/leetcode-kt/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Push1413/leetcode-kt/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Push1413/leetcode-kt/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0202-happy-number) |
@@ -571,5 +573,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
