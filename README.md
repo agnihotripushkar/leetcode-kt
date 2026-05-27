@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -486,12 +487,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0645-set-mismatch) |
 ## Geometry
 |  |
