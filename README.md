@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2833-furthest-point-from-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3379-transformed-array) |
 ## Divide and Conquer
@@ -509,10 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Push1413/leetcode-kt/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Push1413/leetcode-kt/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -581,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0997-find-the-town-judge) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
