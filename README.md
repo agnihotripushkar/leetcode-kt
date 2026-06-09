@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3379-transformed-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3689-maximum-total-subarray-value-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
