@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-kt/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Push1413/leetcode-kt/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Push1413/leetcode-kt/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Push1413/leetcode-kt/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-kt/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
