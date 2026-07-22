@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1200-minimum-absolute-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Push1413/leetcode-kt/tree/master/2058-concatenation-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
