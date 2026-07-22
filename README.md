@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
@@ -596,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
