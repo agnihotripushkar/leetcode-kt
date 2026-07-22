@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
+| [2235-add-two-integers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2235-add-two-integers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Simulation
