@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Push1413/leetcode-kt/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Push1413/leetcode-kt/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Push1413/leetcode-kt/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Push1413/leetcode-kt/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0345-reverse-vowels-of-a-string) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0258-add-digits) |
