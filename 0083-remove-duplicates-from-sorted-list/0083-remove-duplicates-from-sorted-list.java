@@ -13,25 +13,21 @@ class Solution {
         if(head==null){
             return head;
         }
-        ListNode prev = head;
-        Set<Integer> set = new HashSet<Integer>();
-        if(prev!=null){
-            set.add(prev.val);
-        }
-        ListNode root = head.next;
+        ListNode left = head;
+        ListNode right = head.next;
 
-        while(prev.next!=null){
-            if(set.contains(root.val)){
-                prev.next = root.next;
-                root.next = null;
-                root = prev.next;
+        while(right!=null){
+            if(left.val == right.val){
+                right = right.next;
+                left.next = right;
             }
             else{
-                set.add(root.val);
-                root = root.next;
-                prev = prev.next;
+                left = left.next;
+                right = right.next;
             }
         }
+
         return head;
+        
     }
 }
