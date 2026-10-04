@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
+| [0541-reverse-string-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
