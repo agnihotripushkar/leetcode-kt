@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Push1413/leetcode-kt/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0657-robot-return-to-origin) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0509-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-kt/tree/master/1014-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2235-add-two-integers) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1929-concatenation-of-array) |
