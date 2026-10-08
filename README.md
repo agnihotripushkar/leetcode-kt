@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3794-reverse-string-prefix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3794-reverse-string-prefix](https://github.com/agnihotripushkar/leetcode-kt/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
