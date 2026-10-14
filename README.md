@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0997-find-the-town-judge) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Push1413/leetcode-kt/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-kt/tree/master/0990-verifying-an-alien-dictionary) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-kt/tree/master/1894-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2833-furthest-point-from-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2833-furthest-point-from-origin) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Push1413/leetcode-kt/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0767-reorganize-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2833-furthest-point-from-origin](https://github.com/agnihotripushkar/leetcode-kt/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Push1413/leetcode-kt/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
