@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-kt/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-kt/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0234-palindrome-linked-list) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-kt/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-kt/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-kt/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0733-flood-fill) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-kt/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/agnihotripushkar/leetcode-kt/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-kt/tree/master/1544-count-good-nodes-in-binary-tree) |
